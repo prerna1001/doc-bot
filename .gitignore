@@ -1,0 +1,13 @@
+# root
+.DS_Store
+.env
+.env.*
+# node
+node_modules
+.next
+# python
+__pycache__/
+*.pyc
+.venv
+# mac
+Thumbs.db
